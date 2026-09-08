@@ -1,7 +1,7 @@
 # Nextflow-Learning-Group
 Place for organizing the UConn CBC Nextflow Learning Group
 
-## Week 1 - 9/11 - 
+## Week 1 - 9/11 - Introductions
 
 For the first week we will do introductions and read/discuss the following papers:
 
@@ -11,4 +11,14 @@ For the first week we will do introductions and read/discuss the following paper
 [Di Tommaso, Paolo, et al. "Nextflow enables reproducible computational workflows." Nature biotechnology 35.4 (2017): 316-319.](https://www.nature.com/articles/nbt.382)
 
 
-## Week 2 9/18 - 
+## Week 2 - 9/18 - Getting set up
+
+Our plan is to work through Nextflow training materials and then meet as a group to discuss questions or issues. 
+
+Nextflow's training materials can be found [here](https://training.nextflow.io/latest/). 
+
+We're going to start with [Hello Nextflow](https://training.nextflow.io/latest/hello_nextflow/). 
+
+For this week, please work through the sections "Getting started" and "Part 1: Hello World". The training materials provide a Github Codespaces workspace you can use to work through the materials. Alternatively, you can do this on Mantis. You can [open a VS Code session](https://cbc-uconn.github.io/hpc-docs/software.html#vscode) and load nextflow with `module load nextflow` {specify version 26.04 which we have not installed yet as of the time of writing} and then clone the training repository with `git clone https://github.com/nextflow-io/training.git`. 
+
+Reach out via e-mail or slack with any questions. We have a slack channel in the CBC slack - #nextflow_group. 
