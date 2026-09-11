@@ -5,8 +5,6 @@ A place for organizing the UConn CBC Nextflow Learning Group
 
 The meeting is hybrid.
 
-In person:
-
  - UCHC - Academic Building L5061
  - Storrs - ESB 304
  - Virtual - See slack channel or drop us a line for the Teams link
