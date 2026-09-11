@@ -1,5 +1,14 @@
 # Nextflow-Learning-Group
-Place for organizing the UConn CBC Nextflow Learning Group
+A place for organizing the UConn CBC Nextflow Learning Group
+
+[Join the CBC slack workspace](https://bioinformatics.uconn.edu/) (and the #nextflow channel). 
+
+The meeting is hybrid.
+
+In person:
+UCHC - Academic Building L5061
+Storrs - ESB 304
+Virtual - See slack channel or drop us a line for the Teams link
 
 ## Week 1 - 9/11 - Introductions
 
