@@ -27,6 +27,6 @@ Nextflow's training materials can be found [here](https://training.nextflow.io/l
 
 We're going to start with [Hello Nextflow](https://training.nextflow.io/latest/hello_nextflow/). 
 
-For this week, please work through the sections "Getting started" and "Part 1: Hello World". The training materials provide a Github Codespaces workspace you can use to work through the materials. Alternatively, you can do this on Mantis. You can [open a VS Code session](https://cbc-uconn.github.io/hpc-docs/software.html#vscode) and load nextflow with `module load nextflow` {specify version 26.04 which we have not installed yet as of the time of writing} and then clone the training repository with `git clone https://github.com/nextflow-io/training.git`. 
+For this week, please work through the sections "Getting started" and "Part 1: Hello World". The training materials provide a Github Codespaces workspace you can use to work through the materials. Alternatively, you can do this on Mantis. You can [open a VS Code session](https://cbc-uconn.github.io/hpc-docs/software.html#vscode) and load nextflow with `nextflow/26.04.6-ed3p6hu` and then clone the training repository with `git clone https://github.com/nextflow-io/training.git`. 
 
 Reach out via e-mail or slack with any questions. We have a slack channel in the CBC slack - #nextflow_group. 
