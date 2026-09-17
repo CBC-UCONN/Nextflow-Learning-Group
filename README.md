@@ -3,7 +3,7 @@ A place for organizing the UConn CBC Nextflow Learning Group
 
 [Join the CBC slack workspace](https://bioinformatics.uconn.edu/) (and the #nextflow channel). 
 
-The meeting is hybrid.
+We meet Fridays at 10:30am. The meeting is hybrid.
 
  - UCHC - Academic Building L5061
  - Storrs - ESB 304
