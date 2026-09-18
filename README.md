@@ -30,3 +30,12 @@ We're going to start with [Hello Nextflow](https://training.nextflow.io/latest/h
 For this week, please work through the sections "Getting started" and "Part 1: Hello World". The training materials provide a Github Codespaces workspace you can use to work through the materials. Alternatively, you can do this on Mantis. You can [open a VS Code session](https://cbc-uconn.github.io/hpc-docs/software.html#vscode) and load nextflow with `nextflow/26.04.6-ed3p6hu` and then clone the training repository with `git clone https://github.com/nextflow-io/training.git`. 
 
 Reach out via e-mail or slack with any questions. We have a slack channel in the CBC slack - #nextflow_group. 
+
+## Week 3 - 9/25 - Part 2: Hello Channels
+
+Last week we got set up, talked about using VS Code on Mantis and discussed some aspects of the first module. 
+
+This week we are going to cover [Part 2: Hello Channels](https://training.nextflow.io/latest/hello_nextflow/02_hello_channels/) which covers... you guessed it... channels. We hope to see you there. 
+
+
+
