@@ -37,5 +37,6 @@ Last week we got set up, talked about using VS Code on Mantis and discussed some
 
 This week we are going to cover [Part 2: Hello Channels](https://training.nextflow.io/latest/hello_nextflow/02_hello_channels/) which covers... you guessed it... channels. We hope to see you there. 
 
+## Week 4 - 10/2 - Part 3: 
 
-
+This week we're going to meet to cover [Part 3: Hello Workflow[(https://training.nextflow.io/latest/hello_nextflow/03_hello_workflow/). 
